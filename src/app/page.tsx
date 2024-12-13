@@ -1,7 +1,7 @@
 import Navbar from "./component/Navbar/page"
 import Hero from "./component/Hero/page"
-import { PopularCar } from "./component/Popular Car/page"
-import ReccomendCar from "./component/Recomended Cars/page"
+import { PopularCar } from "./component/Popular_Car/page"
+import ReccomendCar from "./component/Recomended_Cars/page"
 import Footer from "./component/Footer/page"
 
 
