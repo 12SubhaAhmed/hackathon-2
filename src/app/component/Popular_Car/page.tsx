@@ -5,7 +5,7 @@ import { BsFillFuelPumpDieselFill } from "react-icons/bs";
 import { MdPeopleAlt } from "react-icons/md";
 import Image from "next/image";
 
-export default function PopularCar() {
+export default function Popularcar() {
   // State to manage the heart icon for each car (Array of booleans)
   const [likedCars, setLikedCars] = useState<boolean[]>([
     false,
