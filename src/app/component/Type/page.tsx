@@ -22,7 +22,7 @@ export default function Type() {
 
   const carData = [
     { name: "Koenigsegg", image: "/Images/car1.png", price: "$99.00 / day" },
-    { name: "Nissan GT - R", image: "/Images/car2.png", price: "$80.00 / day" },
+    { name: "Nissan GT - R", image: "/Images/car 2.png", price: "$80.00 / day" },
     { name: "Rolls-Royce", image: "/Images/car3.png", price: "$96.00 / day" },
     { name: "All New Rush", image: "/Images/car5.png", price: "$72.00 / day" },
     { name: "CR  - V", image: "/Images/car6.png", price: "$80.00 / day" },
