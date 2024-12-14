@@ -179,7 +179,7 @@ export default function Billing() {
                 I agree with our terms and conditions and privacy policy.
               </h1>
             </div>
-            <Link href={"http://localhost:3000/confirm"}>
+            <Link href={"/confirm"}>
               <button className="mt-7 bg-blue-700 w-[140px] h-14 rounded-md text-white hover:shadow-[0_0_4px_1px_black] transition-all">
                 Rent Now
               </button>

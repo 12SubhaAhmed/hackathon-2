@@ -143,7 +143,7 @@ export default function Type() {
 
                 <div className="mt-4">
 
-                  <Link href={"http://localhost:3000/details"} target="blank">
+                  <Link href={"/details"} target="blank">
                     <button className="bg-[#3563E9] w-[116px] h-[44px] text-white px-4 py-2 rounded-sm hover:shadow-[0_0_15px_5px_#3563E9] transition-all">
                       Rent Now
                     </button>

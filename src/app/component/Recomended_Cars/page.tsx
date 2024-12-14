@@ -116,7 +116,7 @@ export default function ReccomendCar() {
         ))}
         {/* Button to show more cars */}
         <div className="flex justify-between items-center mt-[100px] mb-[100px] w-full lg:w-[734px] ml-[135px] lg:h-[44px]">
-          <Link href={"http://localhost:3000/category"}>
+          <Link href={"/category"}>
             <button className="text-white bg-[#3563E9] px-[20px] py-[8px] hover:shadow-[0_0_4px_1px_black] transition-all">
               Show more cars
             </button>
